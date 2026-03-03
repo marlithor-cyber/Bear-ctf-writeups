@@ -12,3 +12,4 @@ My writeups for Bear CTF challenges.
 - [chall1](./pwn/chall1/README.md)
 - [chall2](./pwn/chall2/README.md)
 - [chall3](./pwn/chall3/README.md)
+- [chall4](./pwn/chall4/README.md)
