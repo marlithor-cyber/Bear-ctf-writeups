@@ -19,3 +19,7 @@ My writeups for Bear CTF challenges.
 
 - [chall1](./misc/chall1/README.md)
 - [chall2](./misc/chall2/README.md)
+
+## Reverse
+
+- [chall1](./reverse/chall1/README.md)
